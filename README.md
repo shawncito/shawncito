@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shawncito
+- 👋 Hi, I’m Reyshawn Lawrence Pinnock
 - 👀 I’m interested in Space
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on Microsoft
