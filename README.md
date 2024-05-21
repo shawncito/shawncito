@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me https://www.instagram.com/iam.shawncito/
-- 😄 Pronouns: Optimus/pirme
+- 😄 Pronouns: Optimus/prime
 - ⚡ Fun fact: I love food
 
 <!---
